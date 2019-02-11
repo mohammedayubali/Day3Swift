@@ -2,7 +2,7 @@
 //  main.swift
 //  Day3Swift
 //
-//  Created by MacStudent on 2019-02-11.
+//  Created by Ayub on 2019-02-11.
 //  Copyright © 2019 MacStudent. All rights reserved.
 //
 
